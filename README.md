@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @riri-jv Rashmi JV]
+- 👋 Hi, I’m @riri-jv
 - 👀 I’m interested in a plethora of stuff, for now Machine Learning
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
      1. Mail - 5jvrashmi@gmail.com
      2. LinkedIn - https://www.linkedn.com/in/ririjv
