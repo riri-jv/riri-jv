@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @riri-jv
-- 👀 I’m interested in a plethora of stuff, for now Machine Learning
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in a plethora of stuff
 - 📫 How to reach me:
      1. Mail - 5jvrashmi@gmail.com
      2. LinkedIn - https://www.linkedin.com/in/ririjv/
